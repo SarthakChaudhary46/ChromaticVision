@@ -6,7 +6,7 @@ from skimage.color import lab2rgb
 import matplotlib.pyplot as plt
 
 
-CHECKPOINT_PATH = "/home/vineet/Desktop/task/drive-download-20220407T041406Z-001/experiments/Final_L1loss"
+CHECKPOINT_PATH = "/home/Sarthak/Desktop/task/drive-download-20220407T041406Z-001/experiments/Final_L1loss"
 
 # Function to save the checkpoint
 def save_checkpoint(checkpoint, epoch):
