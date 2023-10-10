@@ -12,7 +12,7 @@ from skimage.metrics import structural_similarity as ssim
 
 SIZE = 256
 
-path = "/home/vineet/Desktop/task/data/raw"
+path = "/home/Sarthak/Desktop/task/data/raw"
     
 paths = glob.glob(path + "/*.jpg") # Grabbing all the image file names
 np.random.seed(123)
