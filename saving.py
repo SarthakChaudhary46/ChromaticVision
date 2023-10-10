@@ -48,4 +48,4 @@ def save_fig(pred, ab, Ls, epoch, show):
         ax.axis("off")
     if show:
         plt.show()
-    fig.savefig("/home/vineet/Desktop/task/drive-download-20220407T041406Z-001/predictions/visualization_L1loss_final/{}.png".format(epoch+1))
+    fig.savefig("/home/Sarthak/Desktop/task/drive-download-20220407T041406Z-001/predictions/visualization_L1loss_final/{}.png".format(epoch+1))
